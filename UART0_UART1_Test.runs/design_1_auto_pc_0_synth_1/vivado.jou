@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sun Dec 14 15:14:46 2025
+# Process ID: 15400
+# Current directory: D:/proiect_SSC/Testare_2_UART/UART0_UART1_Test/UART0_UART1_Test.runs/design_1_auto_pc_0_synth_1
+# Command line: vivado.exe -log design_1_auto_pc_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_auto_pc_0.tcl
+# Log file: D:/proiect_SSC/Testare_2_UART/UART0_UART1_Test/UART0_UART1_Test.runs/design_1_auto_pc_0_synth_1/design_1_auto_pc_0.vds
+# Journal file: D:/proiect_SSC/Testare_2_UART/UART0_UART1_Test/UART0_UART1_Test.runs/design_1_auto_pc_0_synth_1\vivado.jou
+# Running On        :PC-MIHAI
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19045
+# Processor Detail  :Intel(R) Core(TM) i5-10300H CPU @ 2.50GHz
+# CPU Frequency     :2496 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :16989 MB
+# Swap memory       :1073 MB
+# Total Virtual     :18063 MB
+# Available Virtual :2314 MB
+#-----------------------------------------------------------
+source design_1_auto_pc_0.tcl -notrace
